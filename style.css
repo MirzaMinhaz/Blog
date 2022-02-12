@@ -1,0 +1,18 @@
+.card {
+    width: 20rem;
+    padding: 7% 2%;
+    margin: 40px 20px;
+}
+
+.card-title {
+    background-color: rgb(182, 240, 240);
+}
+
+.container-fluid{
+    /* background-color: rgb(9, 9, 31); */
+    padding: 4% 10%;
+}
+
+#bodycolor {
+    background-color: rgb(245, 161, 186);
+}
